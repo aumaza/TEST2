@@ -1,0 +1,269 @@
+# depslib dependency file v1.0
+1525695157 source:c:\test\elifalcon\primerparcial\egresos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"egresos.h"
+
+1525700504 source:c:\test\elifalcon\primerparcial\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"propietario.h"
+
+1525695974 c:\test\elifalcon\primerparcial\propietario.h
+
+1525695266 source:c:\test\elifalcon\primerparcial\ingresos.c
+	<stdio.h>
+	<stdlib.h>
+	"ingresos.h"
+
+1525694958 c:\test\elifalcon\primerparcial\egresos.h
+
+1525694958 c:\test\elifalcon\primerparcial\ingresos.h
+
+1525700628 source:c:\test\elifalcon\primerparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"propietario.h"
+	"ingresos.h"
+	"egresos.h"
+
+1525700652 c:\test\elifalcon\primerparcial\funciones.h
+	"propietario.h"
+
+1525695974 source:c:\test\elifalcon\primerparcial\propietario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"propietario.h"
+
+1526477002 source:c:\eli\utn\primerparcial\egresos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"egresos.h"
+
+1526477272 c:\eli\utn\primerparcial\egresos.h
+
+1526489480 source:c:\eli\utn\primerparcial\ingresos.c
+	<stdio.h>
+	<stdlib.h>
+	"ingresos.h"
+
+1526479944 c:\eli\utn\primerparcial\ingresos.h
+
+1526059262 source:c:\eli\utn\primerparcial\propietario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"propietario.h"
+
+1525695976 c:\eli\utn\primerparcial\propietario.h
+
+1526486005 source:c:\eli\utn\primerparcial\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"propietario.h"
+	"ingresos.h"
+	"egresos.h"
+
+1526485762 source:c:\eli\utn\primerparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"propietario.h"
+	"ingresos.h"
+	"egresos.h"
+
+1526493826 c:\eli\utn\primerparcial\funciones.h
+	"propietario.h"
+	"ingresos.h"
+	"egresos.h"
+
+1526477004 source:c:\utn\jackie\primerparcial\egresos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"egresos.h"
+
+1526477274 c:\utn\jackie\primerparcial\egresos.h
+
+1526489482 source:c:\utn\jackie\primerparcial\ingresos.c
+	<stdio.h>
+	<stdlib.h>
+	"ingresos.h"
+
+1526479946 c:\utn\jackie\primerparcial\ingresos.h
+
+1526512380 source:c:\utn\jackie\primerparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"propietario.h"
+	"ingresos.h"
+	"egresos.h"
+
+1526512273 c:\utn\jackie\primerparcial\funciones.h
+	"propietario.h"
+	"ingresos.h"
+	"egresos.h"
+
+1525695976 c:\utn\jackie\primerparcial\propietario.h
+
+1526059264 source:c:\utn\jackie\primerparcial\propietario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"propietario.h"
+
+1526513113 source:c:\utn\jackie\primerparcial\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"propietario.h"
+	"ingresos.h"
+	"egresos.h"
+
+1526573133 source:c:\eli\mis cosas\mis-programas\primerparcial\egresos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"egresos.h"
+
+1526573046 c:\eli\mis cosas\mis-programas\primerparcial\egresos.h
+
+1526660251 source:c:\eli\mis cosas\mis-programas\primerparcial\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"propietario.h"
+	"ingresos.h"
+	"egresos.h"
+
+1526664283 c:\eli\mis cosas\mis-programas\primerparcial\propietario.h
+
+1526479946 c:\eli\mis cosas\mis-programas\primerparcial\ingresos.h
+
+1526489482 source:c:\eli\mis cosas\mis-programas\primerparcial\ingresos.c
+	<stdio.h>
+	<stdlib.h>
+	"ingresos.h"
+
+1526666375 source:c:\eli\mis cosas\mis-programas\primerparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"funciones.h"
+	"propietario.h"
+	"ingresos.h"
+	"egresos.h"
+
+1526668900 c:\eli\mis cosas\mis-programas\primerparcial\funciones.h
+	"propietario.h"
+	"ingresos.h"
+	"egresos.h"
+
+1526664923 source:c:\eli\mis cosas\mis-programas\primerparcial\propietario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"propietario.h"
+
+1526853077 source:c:\eli\utn\mis-programas\primerparcial\egresos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"egresos.h"
+
+1526848824 c:\eli\utn\mis-programas\primerparcial\egresos.h
+
+1526882653 source:c:\eli\utn\mis-programas\primerparcial\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+	"propietario.h"
+	"ingresos.h"
+	"egresos.h"
+
+1526824357 c:\eli\utn\mis-programas\primerparcial\propietario.h
+	"ingresos.h"
+
+1526824357 c:\eli\utn\mis-programas\primerparcial\ingresos.h
+
+1526876010 source:c:\eli\utn\mis-programas\primerparcial\ingresos.c
+	<stdio.h>
+	<stdlib.h>
+	"ingresos.h"
+
+1526877485 source:c:\eli\utn\mis-programas\primerparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"funciones.h"
+	"propietario.h"
+	"ingresos.h"
+	"egresos.h"
+
+1526880108 c:\eli\utn\mis-programas\primerparcial\funciones.h
+	"propietario.h"
+	"ingresos.h"
+	"egresos.h"
+
+1526830677 source:c:\eli\utn\mis-programas\primerparcial\propietario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"propietario.h"
+
+1526868554 source:c:\users\aumaza_mecon\documents\test\mis-programas-master\mis-programas-master\primerparcial\egresos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"egresos.h"
+
+1526868554 c:\users\aumaza_mecon\documents\test\mis-programas-master\mis-programas-master\primerparcial\egresos.h
+
+1526868554 source:c:\users\aumaza_mecon\documents\test\mis-programas-master\mis-programas-master\primerparcial\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+	"propietario.h"
+	"ingresos.h"
+	"egresos.h"
+
+1526868554 c:\users\aumaza_mecon\documents\test\mis-programas-master\mis-programas-master\primerparcial\propietario.h
+	"ingresos.h"
+
+1526868554 c:\users\aumaza_mecon\documents\test\mis-programas-master\mis-programas-master\primerparcial\ingresos.h
+
+1526868554 source:c:\users\aumaza_mecon\documents\test\mis-programas-master\mis-programas-master\primerparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"funciones.h"
+	"propietario.h"
+	"ingresos.h"
+	"egresos.h"
+
+1526868554 c:\users\aumaza_mecon\documents\test\mis-programas-master\mis-programas-master\primerparcial\funciones.h
+	"propietario.h"
+	"ingresos.h"
+	"egresos.h"
+
+1526868554 source:c:\users\aumaza_mecon\documents\test\mis-programas-master\mis-programas-master\primerparcial\propietario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"propietario.h"
+

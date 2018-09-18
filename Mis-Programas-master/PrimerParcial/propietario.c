@@ -1,0 +1,55 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include "propietario.h"
+
+void HardcodePersona(ePropietario lista_propietario[])
+{
+    int i;
+    int id[]= {1,2,3,4};
+    char nombre[][20]= {"Juan","Luis","Maria","Jose"};
+    char tarjeta[][20]= {"111-111","222-222","333-333","444-444"};
+    char direccion[][20]= {"mitre","urquiza","belgrano","alsina"};
+
+    for(i=0;i<4;i++)
+    {
+      lista_propietario[i].idPropietario=id[i];
+      lista_propietario[i].estado=1;
+      strcpy(lista_propietario[i].nombre_prop,nombre[i]);
+      strcpy(lista_propietario[i].tarjeta,tarjeta[i]);
+      strcpy(lista_propietario[i].direccion,direccion[i]);
+       }
+}
+
+void MostrarPropietarios(ePropietario lista_propietario[],int cant_prop)
+{
+    int i;
+    printf("LISTADO DE PROPIETARIOS\n");
+
+    for(i=0;i<cant_prop;i++)
+    {
+        if(lista_propietario[i].idPropietario!=0)
+        {
+        printf("Id:%d  Nombre:  %s   Direccion:  %s\n",lista_propietario[i].idPropietario,lista_propietario[i].nombre_prop,lista_propietario[i].direccion);
+        }
+
+    }
+}
+void muestra_datos_Propietario_Autos(ePropietario lista, eIngresos ingreso)
+{// impreme los datos
+
+    printf(" ID: %d",lista.idPropietario);
+    printf("\t Nombre: %s",lista.nombre_prop);
+    printf("\t --- ID Auto: %d",ingreso.id);
+    printf("\t Patente: %s",ingreso.patente);
+
+    char marca[10];
+
+    MarcaAutoaNombre(ingreso.marca,marca);
+    printf("\t Marca: %s",marca);
+
+
+    printf("\n\n");
+}
+
+

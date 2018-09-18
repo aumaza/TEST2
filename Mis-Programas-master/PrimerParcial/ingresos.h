@@ -1,0 +1,24 @@
+#ifndef INGRESOS_H_INCLUDED
+#define INGRESOS_H_INCLUDED
+
+
+    typedef struct
+{
+    int id;
+    int estado;
+    char patente[20];
+    int marca;
+    int propietario;
+    int deltaT;
+    int importe;
+
+}eIngresos;
+
+
+void Inicializa_Autos(eIngresos lista_ingresos[],int);
+void HardcodeIngresos(eIngresos lista_ingresos[]);
+int buscarIngreso(eIngresos lista_ingresos[],int id);
+int buscarPorIdIngresos(eIngresos lista[], int ,int );
+//void MostrarUnAuto(ePropietario autos);
+
+#endif // INGRESOS_H_INCLUDED

@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1522352421 source:/home/augusto/Publico/mis ejercicios/operaciones_aritmeticas/main.c
+	<stdio.h>
+
+1532975513 source:c:\users\aumaza_mecon\documents\test\operaciones_aritmeticas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+
+1532974937 c:\users\aumaza_mecon\documents\test\operaciones_aritmeticas\funciones.h
+
+1532977938 source:c:\users\aumaza_mecon\documents\test\operaciones_aritmeticas\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+
